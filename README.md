@@ -1,4 +1,4 @@
-<script src="https://tryhackme.com/badge/408802"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sieghere.png" alt="TryHackMe">
 
 <!--
 **arthur-trovon/arthur-trovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
